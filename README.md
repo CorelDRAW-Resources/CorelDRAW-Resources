@@ -1,4 +1,4 @@
-# CorelDRAW Resources Collection
+# CorelDRAW Resources
 
 > Community collection of templates, macros, scripts, tutorials, tips, and examples for CorelDRAW Graphics Suite — vector illustration, page layout, print prep & more. Enhance your design workflow with shared resources and automation ideas.
 
