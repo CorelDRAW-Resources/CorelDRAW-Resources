@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <a href="https://your-link-here.github.io/CorelDRAW-Resources/" target="_blank" rel="noopener">
+  <a href="https://coreldraw-resources.github.io/CorelDRAW-Resources/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Access_CorelDRAW_Resources-00A2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
          alt="Access CorelDRAW Resources" width="450"
          style="border-radius:8px;" />
@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-  <a href="https://your-link-here.github.io/CorelDRAW-Resources/" target="_blank" rel="noopener">
+  <a href="https://coreldraw-resources.github.io/CorelDRAW-Resources/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Access_CorelDRAW_Resources-00A2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
          alt="Access CorelDRAW Resources" width="450"
          style="border-radius:8px;" />
